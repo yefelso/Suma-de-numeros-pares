@@ -22,12 +22,12 @@ public class Exercise03 {
         int suma = 0;
         for(int i=0;i<=numero;i+=2)
         suma = suma + i;
-        if (numero%2== 0){
+        {
                 System.out.println("la suma de los numero pares es:" + suma);
-        } else{
-            System.out.println("el numero que ingreso no es un numero par");
+        
         }
     
     }
     
 }
+

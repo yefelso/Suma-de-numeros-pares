@@ -24,7 +24,6 @@ public class Exercise03 {
         suma = suma + i;
         {
                 System.out.println("la suma de los numero pares es:" + suma);
-        
         }
     
     }
